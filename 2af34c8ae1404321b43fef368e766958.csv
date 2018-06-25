@@ -1,0 +1,246 @@
+ENG1002,Aerospace Engineering 1,500100200
+ENG1003,Analogue Electronics 1,500100300
+ENG1008,Architecture C1,500100800
+ENG1015,Design and Manufacture 1,500101500
+ENG1016,Mechanical Design 1,500101600
+ENG1021,Electronic Engineering 1X,500102100
+ENG1022,Electronic Engineering 1Y,500102200
+ENG1026,Engineering Skills 1,500102600
+ENG1027,Environmental Engineering 1,500102700
+ENG1031,Introduction To Biomedical Engineering 1,500103100
+ENG1033,Materials 1,500103300
+ENG1061,Civil Engineering 1,500106100
+ENG1062,Dynamics 1,500106200
+ENG1063,Engineering Mathematics 1,500106300
+ENG1064,Microelectronic Systems 1,500106400
+ENG1065,Statics 1,500106500
+ENG1066,Thermodynamics 1,500106600
+ENG2002,Aerospace Design Project 2,500200200
+ENG2004,Analogue Electronics 2,500200400
+ENG2008,Architecture C2,500200800
+ENG2011,Biomaterials 2,500201100
+ENG2012,Biomedical Engineering Skills 2,500201200
+ENG2015,Design and Manufacture 2,500201500
+ENG2016,Mechanical Design 2,500201600
+ENG2020,Digital Electronics 2,500202000
+ENG2023,Electrical Circuits 2,500202300
+ENG2025,Electronic Design Project 2,500202500
+ENG2026,Electronic Devices 2,500202600
+ENG2029,Embedded Processors 2,500202900
+ENG2031,Engineering Electromagnetics 2,500203100
+ENG2037,Introduction to Aerodynamics 2,500203700
+ENG2039,Materials M2,500203900
+ENG2040,Mathematics AE2V,500204000
+ENG2042,Mathematics AE2X,500204200
+ENG2043,Mathematics AE2Y,500204300
+ENG2045,Power Electronics 2,500204500
+ENG2047,Soil Mechanics 2,500204700
+ENG2048,Structural Design 2,500204800
+ENG2053,Thermodynamics 2,500205300
+ENG2071,Structural Design Project 2,500207100
+ENG2077,Engineering Skills 2,500207700
+ENG2078,Environmental Processes 2,500207800
+ENG2079,Civil Engineering Skills 2,500207900
+ENG2080,Geology for Civil Engineers 2,500208000
+ENG2081,Mechanics of Structures 2A,500208100
+ENG2082,Mechanics of Structures 2B,500208200
+ENG2083,Introductory Programming 2,500208300
+ENG2084,Dynamics 2,500208400
+ENG2085,Fluid Mechanics 2,500208500
+ENG2086,Engineering Mathematics 2,500208600
+ENG3001,Aerodynamics and Fluid Mechanics 3,500300100
+ENG3005,Aerospace Team Design Project 3,500300500
+ENG3006,Aircraft Design 3,500300600
+ENG3007,Architecture C3,500300700
+ENG3011,Biological Fluid Mechanics 3,500301100
+ENG3014,Communication Systems 3,500301400
+ENG3015,Control 3,500301500
+ENG3016,Data Acquisition For Music Processing 3,500301600
+ENG3017,Design And Manufacture 3,500301700
+ENG3020,Digital Circuit Design 3,500302000
+ENG3021,Dynamics and Control 3,500302100
+ENG3022,Dynamics and Control M3,500302200
+ENG3023,Electromagnetic Compatiblity 3,500302300
+ENG3024,Electronic Circuit Design 3,500302400
+ENG3025,Electronic Devices 3,500302500
+ENG3026,Electronic System Design 3,500302600
+ENG3027,Engineering Career Skills 3,500302700
+ENG3028,Reliability Engineering 3,500302800
+ENG3029,Engineering Mathematics EE3,500302900
+ENG3030,Fluid Mechanics M3,500303000
+ENG3032,Heat Transfer 3,500303200
+ENG3034,Instrumentation and Data Systems 3,500303400
+ENG3035,Materials and Manufacturing 3,500303500
+ENG3036,Simulation of Engineering Systems 3,500303600
+ENG3037,Mechanics of Solids 3,500303700
+ENG3038,Microscopy and Optics 3,500303800
+ENG3039,Numerical Methods in Aerospace Engineering 3,500303900
+ENG3041,Power Engineering 3,500304100
+ENG3042,Propulsion and Turbomachinery 3,500304200
+ENG3043,Real Time Computer Systems 3,500304300
+ENG3046,Structural Design 3,500304600
+ENG3047,Structural Mechanics 3,500304700
+ENG3049,Team Design Project EE3,500304900
+ENG3053,Thermodynamics of Engines M3,500305300
+ENG3059,Aircraft Performance 3,500305900
+ENG3060,Flight Mechanics 3,500306000
+ENG3062,Aircraft Structural Analysis And Design 3,500306200
+ENG3071,Mechatronic Team Project 3,500307100
+ENG3073,Geotechnical Engineering 3,500307300
+ENG3074,Soil Mechanics 3,500307400
+ENG3075,Structural Design Project 3,500307500
+ENG3076,Civil Design Projects 3,500307600
+ENG3080,Environmental Process Engineering 3,500308000
+ENG3081,Aircraft Structures and Materials 3,500308100
+ENG3082,Construction Management 3,500308200
+ENG3084,Biomechanics 3,500308400
+ENG3085,Engineering Hydraulics 3,500308500
+ENG3086,Highway Engineering 3,500308600
+ENG4001,Acoustics and Audio Technology 4,500400100
+ENG4004,Advanced Materials Technology P4,500400400
+ENG4012,Aerospace Systems Design Project 4,500401200
+ENG4013,Aerospace Design Project 4,500401300
+ENG4014,Aerospace Design Project 4M,500401400
+ENG4020,Aircraft Structures and Materials 4,500402000
+ENG4023,Aircraft Vibration and Aeroelasticity 4,500402300
+ENG4025,Finite Element Analysis 4,500402500
+ENG4026,Architecture C4,500402600
+ENG4028,Audio Programming,500402800
+ENG4036,Biosensors and Diagnostics 4,500403600
+ENG4037,Computational Fluid Dynamics 4,500403700
+ENG4040,Computer Arch and Communications 4,500404000
+ENG4042,Control 4,500404200
+ENG4050,Civil Design Project 4,500405000
+ENG4052,Digital Communication 4,500405200
+ENG4053,Digital Signal Processing  4,500405300
+ENG4066P,Final Year Project ESE4,5004066P00
+ENG4067,Flight Dynamics 4,500406700
+ENG4070,Geotechnical Engineering 4,500407000
+ENG4072,Ground Engineering 4,500407200
+ENG4074,High Speed Aerodynamics 4,500407400
+ENG4079,Industrial Aerodynamics 4,500407900
+ENG4085,Integrated System Design Project 4,500408500
+ENG4088,Lasers and Electro-Optic Systems M4,500408800
+ENG4091,Materials Engineering M4,500409100
+ENG4094,Mechanics of Solids and Structures M4,500409400
+ENG4096,Medical Imaging And Therapy 4,500409600
+ENG4098,Microelectronics In Consumer Products P4,500409800
+ENG4099,Microwave Elect and Optoelect Devices 4,500409900
+ENG4100,Microwaves and Optical Transmission Systems 4,500410000
+ENG4102,Physics Of Fluids 4,500410200
+ENG4104,Power Systems 4,500410400
+ENG4107,Project D4M,500410700
+ENG4110P,Individual Project 4,5004110P00
+ENG4113,Rehabilitation Engineering 4,500411300
+ENG4116P,Research Project M5,5004116P00
+ENG4118,Robotics 4,500411800
+ENG4121,Space Flight Dynamics 4,500412100
+ENG4122,Structural Analysis 4,500412200
+ENG4124,Structural Design 4,500412400
+ENG4137,Vibration M4,500413700
+ENG4138,VLSI Design 4,500413800
+ENG4152,Environmental Biotechnology 4,500415200
+ENG4153,Mechatronic Team Project 4,500415300
+ENG4172,Team Project EE4,500417200
+ENG4173,Renewable Energy 4,500417300
+ENG4175,Autonomous Vehicle Guidance Systems 4,500417500
+ENG4179,Advanced Thermal Engineering 4,500417900
+ENG4181,Biophysics of Cells and Systems 4,500418100
+ENG4183,Transportation Systems Engineering 4,500418300
+ENG4184,Navigation Systems 4,500418400
+ENG4185,Radar and Electro-Optic Systems 4,500418500
+ENG4186,Mechanical Design 4,500418600
+ENG4187,Power Electronics and Drives 4,500418700
+ENG4188,Geotechnical Design Project 4,500418800
+ENG4189,Bioethics for Biomedical Engineering 4,500418900
+ENG4191,Signal Processing of Biosignatures 4,500419100
+ENG4192,Hydraulics and Hydrology 4,500419200
+ENG4193,Ultrasound Technology and Applications 4,500419300
+ENG5008,Aerospace Control I,500500800
+ENG5009,Robust Control 5,500500900
+ENG5012,Aerospace Systems Team Design Project M,500501200
+ENG5013,Aircraft Flight Dynamics,500501300
+ENG5014,Aircraft Handling Qualities and Control 5,500501400
+ENG5017,Autonomous Vehicle Guidance Systems,500501700
+ENG5019,Composite Airframe Structures,500501900
+ENG5021,Computer Communications M,500502100
+ENG5022,Control M,500502200
+ENG5025,Desalination Technology M5,500502500
+ENG5026,Design Special Topic 5,500502600
+ENG5027,Digital Signal Processing,500502700
+ENG5029,Electrical Energy Systems M,500502900
+ENG5031,"Fault Detection, Isolation And Reconfiguration",500503100
+ENG5041P,Individual Project 5,5005041P00
+ENG5043,Integrated Engineering Design,500504300
+ENG5044,Integrated System Design Project M,500504400
+ENG5046,Introduction to Aeroelasticity,500504600
+ENG5047,Introduction to Computational Fluid Dynamics,500504700
+ENG5048,Introduction To Wind Engineering,500504800
+ENG5049,Lasers,500504900
+ENG5052,Materials Engineering,500505200
+ENG5053,Mechanics Of Solids And Structures,500505300
+ENG5055,Micro and Nano Technology,500505500
+ENG5056,Microwave And Mm Wave Circuit Design,500505600
+ENG5059P,MSc Project,5005059P00
+ENG5060P,MSc Project,5005060P00
+ENG5062,Navigation Systems M,500506200
+ENG5066,Optical Communications,500506600
+ENG5072,Radar and Electro-Optic Systems M,500507200
+ENG5076,Simulation Of Aerospace Systems,500507600
+ENG5081,Spacecraft Systems 2,500508100
+ENG5082,Space Flight Dynamics M,500508200
+ENG5083,Spaceflight Dynamics 2,500508300
+ENG5087,Structural Engineering Preliminary Research Project M,500508700
+ENG5088,Structural Engineering Review Project M,500508800
+ENG5090,Vibration,500509000
+ENG5091,Viscous Shear Flows,500509100
+ENG5092,VLSI Design M,500509200
+ENG5096,Advanced Manufacture,500509600
+ENG5102,Applications Of Biomedical Engineering 5,500510200
+ENG5106,Bioinformatics And Systems Biology 5,500510600
+ENG5144,Introduction To Research In Nanoscience And Nanotechnology,500514400
+ENG5174,Nanofabrication,500517400
+ENG5220,Real Time Embedded Programming,500522000
+ENG5224,Structural Concrete C5,500522400
+ENG5227,Computational Modelling of Nonlinear Problems 5,500522700
+ENG5250,Energy Conversion Systems M,500525000
+ENG5254P,Core Research Skills for Postgraduates,5005254P00
+ENG5260,Spacecraft Systems M,500526000
+ENG5261,"Microwave, Electronic and Optoelectronic Devices M",500526100
+ENG5263,Aeroelasticity 5,500526300
+ENG5264,Aerospace Design Project M,500526400
+ENG5265,Rotorcraft Aeromechanics 5,500526500
+ENG5273,Structural Design Project 5,500527300
+ENG5274,Advanced Structural Analysis and Dynamics 5,500527400
+ENG5275,Reclamation of Contaminated Land 5,500527500
+ENG5276,Advanced Manufacture 5,500527600
+ENG5277,Architecture C5,500527700
+ENG5278,Advanced Aerodynamics 5,500527800
+ENG5279,Energy from Waste M,500527900
+ENG5280,Turbulent Flows 5,500528000
+ENG5281,Energy in Biological Systems M,500528100
+ENG5282,Scaffolds and Tissues M,500528200
+ENG5283,Civil Design Project M,500528300
+ENG5284,Advanced Soil Mechanics 5,500528400
+ENG5285,Advanced Imaging and Therapy M,500528500
+ENG5286,Biological Fluid Mechanics M,500528600
+ENG5287,Biomechanics M,500528700
+ENG5288,Biosensors and Diagnostics M,500528800
+ENG5289,Microscopy and Optics M,500528900
+ENG5290,Rehabilitation Engineering M,500529000
+ENG5291,Signal Processing of Biosignatures M,500529100
+ENG5292,Power Electronics and Drives M,500529200
+ENG5293,Water and Environment Design 5,500529300
+ENG5294,Finite Element Analysis M,500529400
+ENG5295P,Individual Project C5,5005295P00
+ENG5297,Insights to Industry,500529700
+ENG5298,Lasers and Integrated Optics M,500529800
+ENG5299,Dynamics 5,500529900
+ENG5300,Materials Engineering M5,500530000
+ENG5301,Energy Storage M,500530100
+ENG5302,Ultrasound Technology and Applications,500530200
+ENG5303,Advanced Thermal Engineering 5,500530300
+ENG5304,Transport Network Optimisation 5,500530400
+ENG5307,Computational Fluid Dynamics 5,500530700
+ENG5308,Biophysics of Cells and Systems M,500530800
+ENG5309,Advanced Integrated Circuit Design M,500530900

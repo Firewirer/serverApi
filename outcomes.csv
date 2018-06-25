@@ -1,0 +1,161 @@
+ENG1016,1,concept generation and selection overview
+ENG1016,2,concept selection by matrices & digital logic method
+ENG1016,3,reading engineering drawings
+ENG1016,4,design for cultural sutability
+ENG1016,5,design for sustainability
+ENG1016,6,design for environmental suitability
+ENG1016,7,design for ethics
+ENG1016,8,design for legal and regulatory issues
+ENG1016,9,project
+ENG1016,10,general overview
+ENG1016,11,Requirements analysis
+ENG1016,12,PDS creation
+ENG1016,13,pumps
+ENG1016,14,heat exchangers
+ENG1016,15,fluid accumulators and reservoirs
+ENG1016,16,couplings
+ENG1016,17,"pipes, hoses and ducts"
+ENG1016,18,clutches
+ENG1016,19,valves
+ENG1015,1,threaded fasteners
+ENG1015,2,keys
+ENG1015,3,gears
+ENG1015,4,shafts
+ENG1015,5,bearings
+ENG1015,6,forging
+ENG1015,7,wire drawing
+ENG1015,8,machining
+ENG1015,9,machining of polymers
+ENG1015,10,"cutting, puching and blanking"
+ENG1015,11,sheet metal forming
+ENG1015,12,casting
+ENG1015,13,injection moulding
+ENG1015,14,vacuum forming
+ENG1015,15,extrusion
+ENG1015,16,seals
+ENG2016,1,Morphological analysis
+ENG2016,2,Functional analysis
+ENG2016,3,quality function deployment
+ENG2016,4,CAD
+ENG2016,5,design for sustainability
+ENG2016,6,design for environmental suitability
+ENG2016,7,design for safety
+ENG2016,8,design for manufacture
+ENG2016,9,project
+ENG2016,10,general overview
+ENG2016,11,Requriements analysis
+ENG2016,12,PDS creation
+ENG2016,13,brakes
+ENG2016,14,springs
+ENG2016,15,gears
+ENG2016,16,belts and chains
+ENG2016,17,bearings
+ENG2016,18,costing
+ENG2016,19,Gantt charts
+ENG2015,1,limits and fits
+ENG2015,2,"fits - thermal, torque and pressure considerations"
+ENG2015,3,dimensional measurement
+ENG2015,4,surface texture
+ENG2015,5,hardness
+ENG2015,6,tensile / compression / bending
+ENG2015,7,strength
+ENG2015,8,impact
+ENG2015,9,dye
+ENG2015,10,magnetic particle
+ENG2015,11,eddy current
+ENG2015,12,ultrasound
+ENG2015,13,radiographic
+ENG2015,14,forging
+ENG2015,15,wire drawing
+ENG2015,16,machining
+ENG2015,17,"cutting, puching and blanking"
+ENG2015,18,sheet metal forming
+ENG2015,19,deep drawing
+ENG2015,20,casting
+ENG2015,21,iron carbon phase transformations
+ENG2015,22,"annealing, quenching, tempering and precipitation hardening"
+ENG2015,23,selection for manufacture
+ENG2015,24,Determining property requirements for end product
+ENG2015,25,selection against design requriements
+ENG2015,26,Chart methods (CES)
+ENG2015,27,cost per unit X
+ENG2015,28,"Two constraints, penalty function method"
+ENG2015,29,cost of manufacture
+ENG2015,30,stainless steel
+ENG2015,31,cast iron
+ENG2015,32,steel
+ENG2015,33,iron / carbon structure
+ENG3017,1,Morphological analysis
+ENG3017,2,Functional analysis
+ENG3017,3,concept generation - sketching
+ENG3017,4,concept selection - gallery method & controlled convergence
+ENG3017,5,mould flow
+ENG3017,6,FMEA
+ENG3017,7,project risk assessment
+ENG3017,8,safety risk assessment
+ENG3017,9,Hazard operability studies
+ENG3017,10,design for environmental suitability
+ENG3017,11,design for ethics
+ENG3017,12,design for safety
+ENG3017,13,design for manufacture
+ENG3017,14,design for assembly
+ENG3017,15,design for disposal
+ENG3017,16,design for quality
+ENG3017,17,project
+ENG3017,20,general overview
+ENG3017,21,PDS creation
+ENG3017,24,injection moulding
+ENG3017,25,costing
+ENG3017,26,CE marking
+ENG3017,27,patent and intellectual property
+ENG3017,28,Project management overview
+ENG3017,29,bimettalic strips
+ENG3035,1,ethical and sustainability issues
+ENG3035,2,extrusion of metals
+ENG3035,3,Fusion welding of metals
+ENG3035,4,welding of polymers
+ENG3035,5,adhesive bonding
+ENG3035,6,rotation moulding
+ENG3035,7,galvanising
+ENG3035,8,Chrome plating
+ENG3035,9,Banned materials
+ENG3035,10,failure modes
+ENG3035,11,"embodied CO2, recycling, end of life disposal"
+ENG3035,12,wear resistance
+ENG3035,13,corrosion resistance
+ENG3035,14,selection for manufacture
+ENG3035,15,Determining property requirements for end product
+ENG3035,16,Determining property requirements for manufacturing method
+ENG3035,17,selection against design requriements
+ENG3035,20,Chart methods (CES)
+ENG3035,21,cost per unit X
+ENG3035,24,Multiple constraints - subjective method
+ENG3035,25,Multiple constraints - weighted properties method
+ENG3035,26,codes and classifications
+ENG3035,27,copper alloys
+ENG3035,28,Nickel alloys
+ENG3035,29,Aluminium alloys
+ENG3035,30,Magnesium alloys
+ENG3035,31,polymers
+ENG3035,32,polymers with additives
+ENG4186,1,critical path analysis
+ENG4186,2,design for aesthetics
+ENG4186,3,design for environmental suitability
+ENG4186,4,design for human factors
+ENG4186,5,design for legal and regulatory issues
+ENG4186,6,design for operation and maintenance
+ENG4186,7,design for safety
+ENG4186,8,environmental risk assessment
+ENG4186,9,event tree analysis
+ENG4186,10,fluid accumulators and reservoirs
+ENG4186,11,FMEA
+ENG4186,12,Innovation
+ENG4186,13,nozzles
+ENG4186,14,pipe flow expert software
+ENG4186,15,"pipes, hoses and ducts"
+ENG4186,16,pneumatic and hydraulic actuators
+ENG4186,17,project
+ENG4186,18,project risk assessment
+ENG4186,19,pumps
+ENG4186,20,safety risk assessment
+ENG4186,21,SWIFT risk analysis
