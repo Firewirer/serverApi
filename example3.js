@@ -5,7 +5,7 @@ function _defineProperty(obj, key, value) { if (key in obj) { Object.definePrope
 var entities, relationships;
 //var url = 'http://open-ed-graph-dev.us-east-1.elasticbeanstalk.com/api/mapping?domainId=593026b4734d1d5068f21e9d&entities=SUBJECT&entities=DEPARTMENT&entities=OUTCOME&relationships=HAS_PREREQUISITE_OF&relationships=HAS_PARENT_OF';
 //var url = 'http://open-ed-graph.aeizqnc7mw.us-east-1.elasticbeanstalk.com/api/mapping?domainId=593026b4734d1d5068f21e9d&entities=SUBJECT&entities=DEPARTMENT&entities=OUTCOME&relationships=HAS_PREREQUISITE_OF&relationships=HAS_PARENT_OF';
-var url = 'http://localhost:3000/api/v1/users';
+var url = 'http://localhost:data';
 
 var getDataPromise = $.ajax(url);
 
