@@ -6,10 +6,10 @@ router.get('/', function(req, res, next) {
 	
 	
 	var connection = mysql.createConnection({
-		host : 'localhost',
+		host : 'eng-data.czef2rdkwl0w.us-east-2.rds.amazonaws.com',
 		port : '3306',
 		user     : 'root',
-		password : 'root',
+		password : 'Arcturus776',
 		database : 'courses',
 	});
 
