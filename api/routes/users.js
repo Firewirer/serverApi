@@ -9,7 +9,7 @@ router.get('/', function(req, res, next) {
 		host : 'eng-data.czef2rdkwl0w.us-east-2.rds.amazonaws.com',
 		port : '3306',
 		user     : 'root',
-		password : 'Arcturus776',
+		password : 'Acnear776',
 		database : 'courses',
 	});
 
