@@ -11,6 +11,9 @@ router.get('/testing.css', function(req, res, next) {
 router.get('/example3.js', function(req, res, next) {
 	res.sendFile('/example3.js' , { root : __dirname});
 });
+router.get('/widget', function(req, res, next) {
+	res.sendFile('/widget.html' , { root : __dirname});
+});
 
 
 module.exports = router;
