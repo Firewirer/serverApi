@@ -104,7 +104,7 @@ var school = {
     parentType: parentType,
     sourceRef: 'sourceId',
     targetRef: 'targetId'
-  }), _defineProperty(_xoces$widgets$XocesW, 'width', '100%'), _defineProperty(_xoces$widgets$XocesW, 'height', '100%'), _defineProperty(_xoces$widgets$XocesW, 'colorScheme', 'light'), _defineProperty(_xoces$widgets$XocesW, 'limitToSameParentInTree', false), _defineProperty(_xoces$widgets$XocesW, 'onMouseOverDirection', 'both'), _defineProperty(_xoces$widgets$XocesW, 'onMouseOverFinish', function onMouseOverFinish(data) {}), _defineProperty(_xoces$widgets$XocesW, 'onMouseOutFinish', function onMouseOutFinish() {}), _defineProperty(_xoces$widgets$XocesW, 'onClickFinish', function onClickFinish(data) {}), _xoces$widgets$XocesW));
+  }), _defineProperty(_xoces$widgets$XocesW, 'width', '100%'), _defineProperty(_xoces$widgets$XocesW, 'height', 1250), _defineProperty(_xoces$widgets$XocesW, 'colorScheme', 'light'), _defineProperty(_xoces$widgets$XocesW, 'limitToSameParentInTree', false), _defineProperty(_xoces$widgets$XocesW, 'onMouseOverDirection', 'both'), _defineProperty(_xoces$widgets$XocesW, 'onMouseOverFinish', function onMouseOverFinish(data) {}), _defineProperty(_xoces$widgets$XocesW, 'onMouseOutFinish', function onMouseOutFinish() {}), _defineProperty(_xoces$widgets$XocesW, 'onClickFinish', function onClickFinish(data) {}), _xoces$widgets$XocesW));
 
   var cwY = xoces.widgets.XocesWidget.new((_xoces$widgets$XocesW2 = {
     hierarchy: ['SCHOOL', 'DEGREE', 'YEAR', 'COURSE', 'OUTCOME'],
@@ -118,7 +118,7 @@ var school = {
     parentType: parentType,
     sourceRef: 'sourceId',
     targetRef: 'targetId'
-  }), _defineProperty(_xoces$widgets$XocesW2, 'width', '100%'), _defineProperty(_xoces$widgets$XocesW2, 'height', '100%'), _defineProperty(_xoces$widgets$XocesW2, 'colorScheme', 'light'), _defineProperty(_xoces$widgets$XocesW2, 'limitToSameParentInTree', false), _defineProperty(_xoces$widgets$XocesW2, 'onMouseOverDirection', 'both'), _defineProperty(_xoces$widgets$XocesW2, 'onMouseOverFinish', function onMouseOverFinish(data) {}), _defineProperty(_xoces$widgets$XocesW2, 'onMouseOutFinish', function onMouseOutFinish() {}), _defineProperty(_xoces$widgets$XocesW2, 'onClickFinish', function onClickFinish(data) {}), _xoces$widgets$XocesW2));
+  }), _defineProperty(_xoces$widgets$XocesW2, 'width', '100%'), _defineProperty(_xoces$widgets$XocesW2, 'height', 1250), _defineProperty(_xoces$widgets$XocesW2, 'colorScheme', 'light'), _defineProperty(_xoces$widgets$XocesW2, 'limitToSameParentInTree', false), _defineProperty(_xoces$widgets$XocesW2, 'onMouseOverDirection', 'both'), _defineProperty(_xoces$widgets$XocesW2, 'onMouseOverFinish', function onMouseOverFinish(data) {}), _defineProperty(_xoces$widgets$XocesW2, 'onMouseOutFinish', function onMouseOutFinish() {}), _defineProperty(_xoces$widgets$XocesW2, 'onClickFinish', function onClickFinish(data) {}), _xoces$widgets$XocesW2));
 
   // render it into the specified container
   cwY.render({
